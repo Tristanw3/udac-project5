@@ -50,10 +50,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * `model_data` - ML model
 * `output_txt_files` - Output files 
     * `docker_out.txt` - Output of run_docker.sh
-    * `docker_prediction_out.txt` - make_prediction.sh output while running docker
-    * `kubernetes_container_logs.txt` - kubectl logs output for the pod
     * `kubernetes_out.txt` - run_kubernetes.sh output
-    * `kubernetes_prediction_out.txt` - make_prediction.sh output while running k8s pod
 * `app.py` - python web application entry point file
 * `Dockerfile` - docker image config
 * `make_prediction.sh` - make prediction HTTP call script
