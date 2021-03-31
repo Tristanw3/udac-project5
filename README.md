@@ -55,7 +55,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
     * `kubernetes_out.txt` - run_kubernetes.sh output
     * `kubernetes_prediction_out.txt` - make_prediction.sh output while running k8s pod
 * `app.py` - python web application entry point file
-* `Dickerfile` - docker image config
+* `Dockerfile` - docker image config
 * `make_prediction.sh` - make prediction HTTP call script
 * `Makefile` - make file (install, test, lint steps)
 * `requirements.txt` - web application dependencies (python, libraries)
