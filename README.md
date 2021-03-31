@@ -29,8 +29,6 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 ## Setup the Environment
 
 * Create a virtualenv and activate it
-
-* Create a virtualenv and activate it
 * Run `make install` to install the necessary dependencies
 
 ### Running `app.py`
