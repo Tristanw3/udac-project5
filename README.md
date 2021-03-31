@@ -1,6 +1,7 @@
 # Operationalize Machine Learning Microservice API.
 
 Circle CI Status
+[![<ORG_NAME>](https://circleci.com/gh/tristanw3/udac-project5.svg?style=svg)](https://app.circleci.com/pipelines/github/Tristanw3/udac-project5)
 
 ## Project Overview
 
